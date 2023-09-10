@@ -8,3 +8,4 @@
 mishuvaia/mishuvaia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Check out my address in Scopescan: 0x290c90e82966d6a1e68bf8386e2427401dbcb32a
